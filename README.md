@@ -19,13 +19,13 @@ There are no files. What you need to do is:
 5.Once pi is powered on, you need to run these commands on your local terminal:
 
 
-$ git clone https://github.com/Screenly/screenly-ose.git
+<code>$ git clone https://github.com/Screenly/screenly-ose.git</code>
 
-$ cd screenly-ose
+<code>$ cd screenly-ose</code>
 
-<code>$ git remote add balena <username>@git.balena-cloud.com:<username>/<app name>.git</code>
+<code>$ git remote add balena username@git.balena-cloud.com:username/app name.git</code>
   
-$ git push balena master
+<code>$ git push balena master</code>
 
 
 6.Turn on the public device url
