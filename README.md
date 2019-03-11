@@ -33,4 +33,9 @@ There are no files. What you need to do is:
 
 7.Go to the public device url and add an asset
 
-8.add the asset link 
+
+8.Add the link to video on the server pi on where it says url
+
+
+ Video Tutorial:
+ <iframe src="https://www.youtube.com/watch?v=-P_OZRBZN74"></iframe>
