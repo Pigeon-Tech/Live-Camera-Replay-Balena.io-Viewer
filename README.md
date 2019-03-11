@@ -31,4 +31,6 @@ There are no files. What you need to do is:
 6.Turn on the public device url
 
 
-7.
+7.Go to the public device url and add an asset
+
+8.add the asset link 
