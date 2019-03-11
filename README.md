@@ -23,7 +23,7 @@ $ git clone https://github.com/Screenly/screenly-ose.git
 
 $ cd screenly-ose
 
-$ git remote add balena <username>@git.balena-cloud.com:<username>/<app name>.git
+<code>$ git remote add balena <username>@git.balena-cloud.com:<username>/<app name>.git</code>
   
 $ git push balena master
 
